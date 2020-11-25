@@ -105,7 +105,8 @@ def main():
         runn_noobs()
         life()
         print " "
-        print RR+" Password Tidak Di Temukan:"(..."
+        print RR+" Password Tidak Di Temukan
+..."
         print " "
 	
 
